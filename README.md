@@ -1,4 +1,4 @@
-# ansible-kubeedge
+# Ansible Kubeedge Deployment Playbook
 Ansible playbooks and roles to create a KubeEdge testbed in GCP.
 
 
